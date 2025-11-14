@@ -1,0 +1,32 @@
+# Node modules and build output
+node_modules
+dist
+build
+
+# Environment files (do NOT bake secrets into image)
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Editor/project files
+.vscode
+.idea
+.DS_Store
+
+# Logs and coverage
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+coverage
+*.log
+
+# Git metadata
+.git
+.gitignore
+
+# Misc caches
+.cache
+.next
+.vite
+.parcel-cache

@@ -51,6 +51,7 @@ StudyNotion is a full-stack ed-tech platform where instructors can create, manag
 ![Screenshot 2025-05-02 101147](https://github.com/user-attachments/assets/c907f819-33a9-4fe3-8465-3c97e405a7ea)
 
 ---
+
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
